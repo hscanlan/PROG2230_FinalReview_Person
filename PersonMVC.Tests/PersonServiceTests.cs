@@ -24,6 +24,6 @@ public class PersonServiceTests
     [Fact]
     public void AddPerson_SavesPersonToDatabase()
     {
-        Assert.Equals(1, 0);
+        Assert.Equal(1, 0);
     }
 }

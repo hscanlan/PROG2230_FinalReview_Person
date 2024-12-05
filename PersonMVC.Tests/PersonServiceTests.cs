@@ -22,7 +22,7 @@ public class PersonServiceTests
     /// Verifies that a new person is saved to the database when using the AddPerson method.
     /// </summary>
     [Fact]
-    public void AddCar_SavesCarToDatabase()
+    public void AddPerson_SavesPersonToDatabase()
     {
         Assert.Equals(1, 0);
     }
